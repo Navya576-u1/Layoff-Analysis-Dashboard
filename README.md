@@ -1,6 +1,5 @@
 # Layoff-Analysis-Dashboard
 Data analytics dashboard in Power BI for visualizing layoffs trends and patterns.
-# Layoff Analysis Dashboard
 
 ## Project Overview
 This Power BI project analyzes layoff trends across different companies and industries. The goal is to identify patterns, high-risk sectors, and provide actionable insights for decision-making.
@@ -31,8 +30,11 @@ The dataset includes company names, layoff counts, dates, and reasons for layoff
 ## Repository Structure
 PowerBI-Layoff-Analysis/
 ├── Layoff_Analysis.pbix
+
 ├── dataset.csv
+
 ├── screenshot.png
+
 └── README.md
 
 
